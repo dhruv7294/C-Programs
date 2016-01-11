@@ -1,4 +1,4 @@
-//W A P convert second to minute houer
+//W A P convert second to minute hour
 #include<stdio.h>
 #include<conio.h>
 void main()

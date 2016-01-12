@@ -1,4 +1,4 @@
-// W A P input 10 no in descending oder
+// W A P input 10 no in descending order
 
 #include<stdio.h>
 #include<conio.h>
